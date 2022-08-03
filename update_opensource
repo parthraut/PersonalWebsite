@@ -5,11 +5,9 @@ set -x
 # Fetch data using api call
 node git_data_fetcher.mjs
 
-# Change directory to build folder
-cd build
+# Build website
+npm run build
 
-pwd
-# push to git
-git add .
-git commit -m "updated github api"
-git push
+# Change directory to outside build folder
+cd ../project_backend
+

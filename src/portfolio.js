@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A hard-working individual with a strong interest in applying computers and technology to complex global problems.",
   resumeLink:
-    "https://drive.google.com/file/d/1dX2okx0EbhB1Qh5qUPbUuzNYotLd2xvI/view?usp=sharing",
+    "https://drive.google.com/file/d/198re3JCLn-9kGQ-H3TUtwg7gMzk5bFTk/view?usp=sharing",
   // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/parthraut",
 };
@@ -99,7 +99,7 @@ const skills = {
           },
         },
         {
-          skillName: "ARM Micocontrollers",
+          skillName: "ARM Microcontrollers",
           fontAwesomeClassname: "file-icons:assembly-arm",
           style: {
             backgroundColor: "transparent",
